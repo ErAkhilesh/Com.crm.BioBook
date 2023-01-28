@@ -57,6 +57,8 @@ public class ShareStatusWithGenericTest {
 		driver.findElement(By.xpath("//button[@value='Log out']")).click();	
 		
 		//System.out.println("Saturday");
+		//System.out.println("Monday");
+		
 	}
 
 }
