@@ -1,4 +1,4 @@
-package GenericLiberary
+package GenericLiberary;
 
 import org.testng.IRetryAnalyzer;
 import org.testng.ITestResult;
